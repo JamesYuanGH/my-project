@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OpenCode AI Installer
+Comment=Install OpenCode AI
+Exec=gnome-terminal -- bash -c "/usr/bin/opencode-ai-installer; exec bash"
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;
